@@ -21,7 +21,6 @@ end
 def remove_element_from_start_of_array(array)
  create_an_array.shift
 end
-end
 
 def retrieve_element_from_index(array, index_number)
   retrieve_element_from_index(create_an_array,2)
